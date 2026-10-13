@@ -17,6 +17,7 @@ pip install -r requirements.txt
 Create a `.env` file with `GEMINI_API_KEY=your_key_here` (see `.env.example`), then run `rag math.ipynb` top to bottom.
 
 ## What I tested
-Tested two questions: 1. **What can you do in Algebra?**(Answear was in the text) Model gave a correct answear.
-1. **What is an eigenvalue in Linear Algebra?**(Answear wasn't in the text)
+Tested two questions: 
+1. **What can you do in Algebra?**(Answear was in the text) Model gave a correct answear.
+2. **What is an eigenvalue in Linear Algebra?**(Answear wasn't in the text)
 Model said that this wasn't written in text
